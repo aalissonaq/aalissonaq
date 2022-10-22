@@ -28,6 +28,10 @@ Atualmente exerço a função de professor do Curso Técnico de Redes (nível m�
 
 </div>
 
+<p align="center"<a href="#"><img alt="Gráfico de atividade Alisson Almeida" src="https://activity-graph.herokuapp.com/graph?username=aalissonaq&bg_color=0D1117&color=d6db0b&line=ffffff&point=e34c26&hide_border=true&" /></a></p>
+<br>
+
+          
 <div style="display: inline_block"><br>
 
 
