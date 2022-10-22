@@ -57,11 +57,11 @@ Atualmente exerço a função de professor do Curso Técnico de Redes (nível m�
 
 <div> 
 <h3>📫 Como chegar até mim:</h3>
- <a href = "mailto:aalissonalmeidaq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_new"></a>
+ <a href = "mailto:aalissonalmeidaq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_new"></a>
   <a href="https://www.linkedin.com/in/alissonalmeidaq/" target="_new"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/alisson.almeidaq/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/alisson.almeidaq/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/aalissonaq/aalissonaq/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/aalissonaq/aalissonaq/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
